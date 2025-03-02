@@ -29,7 +29,7 @@ A comprehensive data privacy platform that helps users detect data breaches and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/breach-protector.git
+   git clone https://github.com/debdootmanna/breach-protector.git
    cd breach-protector
    ```
 
